@@ -3,5 +3,4 @@
 <ul>
   <li>💻 Student Web Integrator</li>
   <li>🔭 I am currently a student at OpenClassrooms</li>
-  <li>🌱 I’m currently learning SASS</li>
 </ul>
