@@ -1,6 +1,6 @@
 <h2>👋 Welcome to my GitHub profile page!</h2>
 
 <ul>
-  <li>💻 Student Web Integrator</li>
-  <li>🔭 I am currently a student at OpenClassrooms</li>
+  <li>💻 Web Developer and FiveM developer</li>
+  <li>🔭 I'm currently working on SnapBack</li>
 </ul>
