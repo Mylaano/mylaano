@@ -2,5 +2,4 @@
 
 <ul>
   <li>💻 Web Developer and FiveM developer</li>
-  <li>🔭 I'm currently working on Horyzon Roleplay</li>
 </ul>
